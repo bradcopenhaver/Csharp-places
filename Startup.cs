@@ -5,7 +5,7 @@ using Nancy.Owin;
 using Nancy;
 using Nancy.ViewEngines.Razor;
 
-namespace EnterNamespaceHere //replace with your desired namespace
+namespace Places //replace with your desired namespace
 {
   public class Startup
   {
